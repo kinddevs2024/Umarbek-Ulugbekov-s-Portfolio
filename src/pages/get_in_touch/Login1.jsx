@@ -129,7 +129,7 @@ function Login1() {
                                     facebook
                                 </Button>
                             </Link>
-                            <Link className=" cursor-none" to={"https://www.youtube.com/@kind_devs"}>
+                            <Link className=" cursor-none" to={"https://youtube.com/@uu-motivations?si=ESlzGuQcKBohqsr4"}>
                                 <Button
                                     variant="outlined"
                                     size="lg"
